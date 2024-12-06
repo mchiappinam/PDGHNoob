@@ -1,0 +1,13 @@
+name: PDGHNoob
+main: me.mchiappinam.pdghnoob.Main
+version: 1.0
+author: mchiappinam
+website: http://pdgh.net/
+depends: Legendchat
+commands:
+   noob:
+      description: Info.
+      usage: /<command>
+   setnoob:
+      description: Info.
+      usage: /<command>
